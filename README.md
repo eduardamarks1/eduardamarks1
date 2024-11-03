@@ -41,6 +41,7 @@ Here are the languages and software tools I work with regularly:
 ---
 ### Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardamarks1&layout=compact&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardamarks1&show_icons=true&theme=tokyonight)
 
 ---
 Feel free to explore my repositories and connect!
