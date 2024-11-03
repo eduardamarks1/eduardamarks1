@@ -27,15 +27,16 @@ Here are the languages and software tools I work with regularly:
 ---
 
 ### 🌱 I’m currently learning...
-- **Machine Learning**: Diving deeper into machine learning techniques, including feature selection, model training, and evaluation. I'm also focusing on advanced techniques for word embeddings to enhance natural language processing applications.
+- **Machine Learning**: ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Word2Vec](https://img.shields.io/badge/Word2Vec-FFB9A8?style=flat&logo=google&logoColor=black)
+
 - **Concurrent Programming**: Studying thread management and synchronization in C, with the goal of improving resource usage and response times in embedded systems.
-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+- **Lancguage**: ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 ---
 
 ### 📫 How to reach me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/eduardadesmarques/)
-
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardadesmarques/)
 
 ---
 
