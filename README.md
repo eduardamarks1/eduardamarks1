@@ -21,6 +21,8 @@ Here are the languages and software tools I work with regularly:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-2D325C?style=flat&logo=platformio&logoColor=white)
 
 ---
 
