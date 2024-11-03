@@ -1,15 +1,4 @@
-<div style="position: relative;">
-  <!-- Background SVG -->
-  <svg width="100%" height="150" viewBox="0 0 100 100" preserveAspectRatio="none" style="position: absolute; top: 0; left: 0; z-index: -1;">
-    <path d="M0,40 C30,120 70,0 100,40 L100,100 L0,100 Z" fill="#00bfa6" />
-  </svg>
-  
-  <!-- Main Content -->
-  <div style="padding: 50px 20px; color: white;">
-    <h1 align="center">Olá, meu nome é Leonardo</h1>
-    <!-- Add your GitHub stats or other content here -->
-  </div>
-</div>
+
 ## Hi there 👋
 
 I’m Eduarda Marques, an undergraduate Computer Science student at the Federal University of Rio de Janeiro (UFRJ). I'm currently engaged in a research project exploring matrix decomposition techniques and their novel applications in Artificial Intelligence. Additionally, I lead the Command and Data Handling System (CDHS) team, part of the electronics subsystem at Minerva Aerospace, where we develop CubeSat technology.
