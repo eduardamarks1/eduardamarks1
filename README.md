@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I’m Eduarda Marques, an undergraduate Computer Science student at the Federal University of Rio de Janeiro (UFRJ). I'm currently engaged in a research project exploring matrix decomposition techniques and their novel applications in Artificial Intelligence. Additionally, I lead the Command and Data Handling System (CDHS) team, part of the electronics subsystem at Minerva Aerospace, where we develop CubeSat technology.
+
 <!--
 **eduardamarks1/eduardamarks1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
