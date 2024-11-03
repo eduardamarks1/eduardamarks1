@@ -39,6 +39,4 @@ Here are the languages and software tools I work with regularly:
 
 ---
 
-![Eduarda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardamarks1-github&show_icons=true&theme=radical)
-
 Feel free to explore my repositories and connect!
