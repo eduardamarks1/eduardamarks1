@@ -33,11 +33,14 @@ Here are the languages and software tools I work with regularly:
 - **Operational Systems**: ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-007ACC?style=flat&logo=freertos&logoColor=white) ![Concurrency](https://img.shields.io/badge/Concurrency-FF3D00?style=flat&logo=generic&logoColor=white)
 - **Language**: ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
----
 
+---
 ### 📫 How to reach me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardadesmarques/)
 
 ---
+### Github Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardamarks1&layout=compact&theme=tokyonight)
 
+---
 Feel free to explore my repositories and connect!
