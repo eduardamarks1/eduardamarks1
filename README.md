@@ -29,7 +29,7 @@ Here are the languages and software tools I work with regularly:
 ### 🌱 I’m currently learning...
 - **Machine Learning**: ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Word2Vec](https://img.shields.io/badge/Word2Vec-FFB9A8?style=flat&logo=google&logoColor=black)
-- **Operational Systems**:![FreeRTOS](https://img.shields.io/badge/FreeRTOS-007ACC?style=flat&logo=freertos&logoColor=white) ![Concurrency](https://img.shields.io/badge/Concurrency-FF3D00?style=flat&logo=generic&logoColor=white)
+- **Operational Systems**: ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-007ACC?style=flat&logo=freertos&logoColor=white) ![Concurrency](https://img.shields.io/badge/Concurrency-FF3D00?style=flat&logo=generic&logoColor=white)
 - **Lancguage**: ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 ---
