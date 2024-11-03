@@ -27,7 +27,7 @@ Here are the languages and software tools I work with regularly:
 ### 🌱 I’m currently learning...
 - **Machine Learning**: Diving deeper into machine learning techniques, including feature selection, model training, and evaluation. I'm also focusing on advanced techniques for word embeddings to enhance natural language processing applications.
 - **Concurrent Programming**: Studying thread management and synchronization in C, with the goal of improving resource usage and response times in embedded systems.
-- **Go**: Learning the Go programming language to expand my skills in efficient, concurrent, and scalable system development.
+- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 ---
 
