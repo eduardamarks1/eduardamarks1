@@ -3,8 +3,6 @@
 
 I’m Eduarda Marques, an undergraduate Computer Science student at the Federal University of Rio de Janeiro (UFRJ). I'm currently engaged in a research project exploring matrix decomposition techniques and their novel applications in Artificial Intelligence. Additionally, I lead the Command and Data Handling System (CDHS) team, part of the electronics subsystem at Minerva Aerospace, where we develop CubeSat technology.
 
----
-
 ### 🛠 Languages & Tools
 Here are the languages and software tools I work with regularly:
 
@@ -25,8 +23,7 @@ Here are the languages and software tools I work with regularly:
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-2D325C?style=flat&logo=platformio&logoColor=white)
 
----
 ### 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardadesmarques/)
----
+
 Feel free to explore my repositories and connect!
