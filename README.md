@@ -20,17 +20,6 @@ Here are the languages and software tools I work with regularly:
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-2D325C?style=flat&logo=platformio&logoColor=white)
 
-
-### GitHub Stats
-
-![Eduarda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardadesmarques&show_icons=true&theme=default&hide_title=true&hide_rank=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardadesmarques&layout=compact&theme=default&hide_title=true)
-
-### GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eduardadesmarques&theme=default)
-
 ### How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardadesmarques/)
 
