@@ -10,7 +10,6 @@ Here are the languages and software tools I work with regularly:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
 
-![Linguagens](https://img.shields.io/github/languages/top/eduardamarks1)
 #### **Technologies & Frameworks**
 
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat&logo=STMicroelectronics&logoColor=white)
