@@ -1,7 +1,4 @@
-I’m Eduarda Marques, an undergraduate Computer Science student at the Federal University of Rio de Janeiro (UFRJ). I'm currently engaged in a research project exploring matrix decomposition techniques and their novel applications in Artificial Intelligence. Additionally, I lead the Command and Data Handling System (CDHS) team, part of the electronics subsystem at Minerva Aerospace, where we develop CubeSat technology.
-
-### Languages & Tools
-Here are the languages and software tools I work with regularly:
+I'm Eduarda Marques, a Computer Science undergrad at UFRJ. I’m researching matrix decomposition techniques, especially exploring GSVD (Generalized Singular Value Decomposition) in language translation and transfer learning applications in AI. I also lead the Command and Data Handling System (CDHS) team at Minerva Aerospace, developing CubeSat technology.
 
 #### **Languages**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardamarks1&layout=compact&langs_count=6&theme=tokyonight)
