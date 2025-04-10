@@ -4,12 +4,8 @@ I’m Eduarda Marques, an undergraduate Computer Science student at the Federal 
 Here are the languages and software tools I work with regularly:
 
 #### **Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardamarks1&layout=compact&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardamarks1&layout=compact&langs_count=5&theme=tokyonight)
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
 
 #### **Technologies & Frameworks**
 
