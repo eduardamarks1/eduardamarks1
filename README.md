@@ -4,9 +4,6 @@ I'm Eduarda Marques, a Computer Science undergrad at UFRJ. I’m researching mat
 
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat&logo=STMicroelectronics&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-2E282A?style=flat&logo=altiumdesigner&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-2D325C?style=flat&logo=platformio&logoColor=white)
 
